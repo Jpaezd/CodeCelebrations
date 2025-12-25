@@ -35,9 +35,4 @@ This repository showcases my creativity, coding skills, and ability to create en
 
 ---
 
-## 🎬 Demo Animation
-
-![BTC-Pacman Demo](assets/BTC-Pacman.gif)
-
-
 Happy coding! 🎨💻
