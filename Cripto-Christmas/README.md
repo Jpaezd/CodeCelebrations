@@ -4,6 +4,11 @@ A personal project where I combined programming and creativity: I recorded my VS
 
 ---
 
+## 🎬 Demo Animation
+
+![BTC-Pacman Demo](assets/BTC-Pacman.gif)
+
+
 ## 📂 Project Structure
 
 - `assets/` → Images and graphic resources used in the project.
