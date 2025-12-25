@@ -1,13 +1,21 @@
-# Cripto-Christmas
+# 🎄 Cripto-Christmas
 
-Proyecto donde grabé VSCode mientras jugaba Pacman, agregando audio y efectos visuales.
+Proyecto personal donde combiné programación y creatividad: grabé mis sesiones de VSCode mientras jugaba Pacman, agregando efectos de audio y visuales para hacer el proceso más entretenido.
 
-## Estructura del proyecto
+---
 
-- `assets/` → imágenes .png
-- `videos/` → video final con audio
-- `código/` → scripts, por ejemplo Cripto-Christmas.py
+## 📂 Estructura del proyecto
 
-## Cómo ejecutar el código
+- `assets/` → Imágenes y recursos gráficos utilizados.
+- `videos/` → Video final con audio de la grabación.
+- `código/` → Scripts, por ejemplo `Cripto-Christmas.py`.
+- `README.md` → Esta documentación.
+
+---
+
+## 🖥 Cómo ejecutar el código
+
+1. Asegúrate de tener Python 3 instalado.
+2. Abre la terminal y navega a la carpeta `código`:
 ```bash
-python código/Cripto-Christmas.py
+cd código
