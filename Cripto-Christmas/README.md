@@ -20,7 +20,9 @@ A personal project where I combined programming and creativity: I recorded my VS
 
 ## 🖥 How to Run the Code
 
-1. Make sure Python 3 is installed.
-2. Open a terminal and navigate to the `código` folder:
+### 1️⃣ Requirements
+- **Python 3.10+** (tested with Python 3.11)  
+- Required packages:  
 ```bash
-cd código
+pip install pygame opencv-python
+
