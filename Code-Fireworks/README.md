@@ -6,7 +6,8 @@ A personal Python project that simulates a **fireworks display** with colorful a
 
 ## 🎬 Demo
 
-![Fireworks Demo](Code-Fireworks/assets/fire.gif)
+![Fireworks Demo](assets/fire.gif)
+
 
 > The GIF above shows the main animation: fireworks, a snowman, stars, and a bouncing ball with realistic physics.
 
